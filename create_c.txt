@@ -1,0 +1,5 @@
+create table c(
+cno char(4)primary key,
+cname char(40) not null,
+cpno char(4),
+ccredit int);
